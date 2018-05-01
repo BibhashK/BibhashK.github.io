@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html >
 <head>
   <meta charset="UTF-8">
@@ -293,4 +293,4 @@ $('.card').click(function () {
 
 </body>
 </html>
-# powered by BibhashK.github.io
+
